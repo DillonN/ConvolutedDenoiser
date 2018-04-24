@@ -1,0 +1,1 @@
+The files in this folder are from the [ConvNetSharp repo](https://github.com/cbovar/ConvNetSharp). They are slightly customized to allow CUDA9.1 and a 64x64 output layer.

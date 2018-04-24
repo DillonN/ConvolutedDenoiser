@@ -1,0 +1,1 @@
+The files in this folder are from the [managedCuda repo(https://github.com/kunzmi/managedCuda). They are used rather than the NuGet package so that we support CUDA 9.1/CuDNN 7.
